@@ -8,6 +8,8 @@ You can use SharpConfig to read, modify and save configuration files and streams
 
 The library is fully compatible with .NET, .NET Core and the Mono Framework.
 
+[NuGet](https://www.nuget.org/packages/sharpconfig)
+
 ![nugetstats](https://img.shields.io/nuget/dt/sharpconfig)
 
 ## Installation
